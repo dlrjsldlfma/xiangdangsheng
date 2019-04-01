@@ -1,6 +1,7 @@
 ---
 layout: post
 title: God & Your Vision
+published: true
 ---
 
 <p> I often find myself wanting to pursue a certain goal or set a
@@ -10,13 +11,14 @@ title: God & Your Vision
 	goals for this year is to create and showcase a series of
 	scientific artworks, another is to work out for fifteen minutes
 	every day. Some of my loftier goals are to see the Black graduate
+	<!--more-->
 	student community at MIT become a vibrant, active, and supportive
 	space that has a sustained and measurable impact on the policies
 	and culture of our campus; and to develop a new programming
 	language which provides a semantic framework for analyzing and
 	developing theories about the functional and physical structure of
 	the brain. &#8230; Don't worry, I&rsquo;m not sure what that last one
-	actually means either.	
+	actually means either.
 </p>
 
 <p>
@@ -28,7 +30,7 @@ title: God & Your Vision
 	challenge you in two ways. One, do you know how to chart and
 	navigate the path from where you are now to where you want to be?
 	Two, are you confident that those things you have set out to do
-	are at the limit of what you can attain?	
+	are at the limit of what you can attain?
 </p>
 
 <p>
@@ -67,8 +69,8 @@ title: God & Your Vision
 	becoming a scientist by going to university be expanded and
 	upturned: away from school I was not only prepared for science,
 	but I was also given the spiritual and relational foundations to
-	be able to empower and uplift others in many ways. 
-	
+	be able to empower and uplift others in many ways.
+
 </p>
 
 <p>
