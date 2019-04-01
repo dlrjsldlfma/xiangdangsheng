@@ -1,0 +1,107 @@
+@font-face {
+    font-family: "Equity";
+    url("/public/fonts/equity_text_a_regular.woff");
+}
+
+@font-face {
+    font-family: "Equity";
+    src: url("/public/fonts/equity_text_a_italic.woff") format("woff");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Equity";
+    src: url("/public/fonts/equity_text_a_bold.woff") format("woff");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Equity";
+    src: url("/public/fonts/equity_text_a_bold_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t2_regular.woff") format("woff");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t2_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t3_regular.woff") format("woff");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t3_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t4_regular.woff") format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t4_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t7_regular.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Concourse";
+    url("/public/fonts/concourse_t7_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Triplicate";
+    url("/public/fonts/triplicate_t3_code_bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Triplicate";
+    url("/public/fonts/triplicate_t3_code_italic.woff") format("woff");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Triplicate";
+    url("/public/fonts/triplicate_t3_code_bold.woff") format("woff");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Triplicate";
+    url("/public/fonts/triplicate_t3_bold_italic.woff") format("woff");
+    font-style: italic;
+    font-weight: bold;
+}
+
+html {
+    font-family: Equity, Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Concourse, Helvetica, Arial, sans-serif;
+}
