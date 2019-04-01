@@ -3,6 +3,7 @@ layout: post
 title: God & Your Vision
 published: true
 author: Corban Swain
+comments: true
 ---
 
 I often find myself wanting to pursue a certain goal or set a certain
