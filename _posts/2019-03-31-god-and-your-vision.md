@@ -15,12 +15,12 @@ title: God & Your Vision
 	and culture of our campus; and to develop a new programming
 	language which provides a semantic framework for analyzing and
 	developing theories about the functional and physical structure of
-	the brain. &#8230; Don't worry, I'm not sure what that last one
+	the brain. &#8230; Don't worry, I&rsquo;m not sure what that last one
 	actually means either.	
 </p>
 
 <p>
-	As much as I can go on about my goals and dreams, I'm confident
+	As much as I can go on about my goals and dreams, I&rsquo;m confident
 	you can--and likely have--shared about your dreams and goals in
 	the same way. There are commitments you want to stick to,
 	challenges you want to conquer, systems you want to see disrupted,
@@ -37,7 +37,7 @@ title: God & Your Vision
 	as I could. I went to university with the intention of making this
 	dream a reality; I was confident that it was the place that I
 	needed to be. However, despite being in what I thought were
-	perfect conditions to become who I wanted to become, things didn't
+	perfect conditions to become who I wanted to become, things didn&rsquo;t
 	work out how I wanted. I ended up in a very dark place and lost
 	hope of those things I wanted to accomplish and, ultimately, I
 	walked away. Literally. Late one night during my junior year I
@@ -45,8 +45,9 @@ title: God & Your Vision
 	pajamas, I was prepared to completely detach myself from
 	everything and everyone I knew. Despite my belief that school was
 	exactly where I needed to be, God spoke to me in that moment and
-	said ''You don't have to stay at school.'' God would have it that I
-	step away from school to be equipped for a greater purpose.
+	said &ldquo;You don&rsquo;t have to stay at school.&rdquo; God would
+	have it that I step away from school to be equipped for a greater
+	purpose.
 </p>
 
 <p>
@@ -71,7 +72,7 @@ title: God & Your Vision
 </p>
 
 <p>
-	So back to my original questions:  Do you know how to navigate the
+	So back to my original questions: Do you know how to navigate the
 	path from where you are now to where you want to be?  And are you
 	confident that those things you have set out to do are at the
 	limit of what you can attain?  Consider that your creator, God,

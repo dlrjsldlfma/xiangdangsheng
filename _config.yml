@@ -9,7 +9,7 @@ tagline:             'A Jekyll theme'
 description:         'The blog of Corban Swain.'
 url:                 http://corbanswain.com
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
