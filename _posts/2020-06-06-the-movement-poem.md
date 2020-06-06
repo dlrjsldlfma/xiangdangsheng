@@ -15,47 +15,47 @@ video-src: "https://www.youtube.com/embed/28HUuykjGJQ"
 ---
 
 
-There is a movement in us\
-us beaten, us broken\
-us kindred once stolen\
-There is a movement in us\
-All starved and choked\
-In endless woke\
+There is a movement in us<br>
+us beaten, us broken<br>
+us kindred once stolen<br>
+There is a movement in us<br>
+All starved and choked<br>
+In endless woke<br>
 There is a movement in us
 <!--more-->
 
-*Like tears forcibly held back,\
-Allowed to see through the eyes,\
-But never able to change their gaze\
-Finally pushing out of the tear ducts\
-Streaming around the plump cheeks on\
-The smiling face of their country.\
-As the tears crash into the ground\
+*Like tears forcibly held back,<br>
+Allowed to see through the eyes,<br>
+But never able to change their gaze<br>
+Finally pushing out of the tear ducts<br>
+Streaming around the plump cheeks on<br>
+The smiling face of their country.<br>
+As the tears crash into the ground<br>
 They cry out to the Lord &ldquo;Speak!&rdquo;*
 
-*&ldquo;America,&rdquo; He says,\
-&ldquo;Will you join hands with the tree that grows watered by tears?\
-Will you be cut by her bark, be healed of your fears?\
-Will you give up  injustice&mdash;axe and sin held too dear?\
+*&ldquo;America,&rdquo; He says,<br>
+&ldquo;Will you join hands with the tree that grows watered by tears?<br>
+Will you be cut by her bark, be healed of your fears?<br>
+Will you give up  injustice&mdash;axe and sin held too dear?<br>
 Will you say to the tree &lsquo;live free and live here&rsquo;?&rdquo;*
 
-There is a movement in her\
-Whether joined at the side,\
-Or left hanging, left dry\
-There is a movement in her,\
-All earth and crown\
-Crimson and brown\
-We are the movement for sure\
-Tired of mourning unseen,\
+There is a movement in her<br>
+Whether joined at the side,<br>
+Or left hanging, left dry<br>
+There is a movement in her,<br>
+All earth and crown<br>
+Crimson and brown<br>
+We are the movement for sure<br>
+Tired of mourning unseen,<br>
 We march to the morning of A Dream
 
-There is a move in the heart\
-There is a move of the mind\
-There is a move by the Spirit\
+There is a move in the heart<br>
+There is a move of the mind<br>
+There is a move by the Spirit<br>
 So the only word I can find is
 
-Move. Move.\
-From your pockets,\
-With your voices,\
-On your feet,\
+Move. Move.<br>
+From your pockets,<br>
+With your voices,<br>
+On your feet,<br>
 MOVE!
