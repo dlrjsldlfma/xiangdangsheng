@@ -1,0 +1,36 @@
+---
+layout: post
+comments: true
+include-video: false
+include-note: false
+video-src: none
+do-mono-strong: false
+---
+
+{% if page.include-note %}
+<div class="poetry-note">
+  <p>
+    {{ page.note }}
+  </p>
+</div>
+{% endif %}
+
+{% if page.do-mono-strong %}
+<div class="poetry no-select mono-strong">
+{% else %}
+<div class="poetry no-select">
+{% endif %}
+  {{ content }}
+</div>
+
+{% if page.include-video %}
+<h2>Video</h2>
+<iframe
+  width="560"
+  height="315"
+  src={{ page.video-src }}
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+{% endif %}

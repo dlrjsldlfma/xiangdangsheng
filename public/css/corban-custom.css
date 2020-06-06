@@ -76,7 +76,7 @@
 
 @font-face {
     font-family: "Triplicate";
-    src: url("/public/fonts/triplicate_t3_code_bold.woff") format("woff");
+    src: url("/public/fonts/triplicate_t3_code.woff") format("woff");
 }
 
 @font-face {
@@ -107,17 +107,76 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-    font-family: Concourse
+    font-family: Concourse, Helvetica, Arial, sans-serif;
 }
 
 .sidebar a {
-    font-weight: 400
+    font-weight: 400;
 }
 
 .pagination {
-    font-family: Concourse
+    font-family: Concourse, Helvetica, Arial, sans-serif;
 }
 
 .sidebar-item p:last-child {
-    font-weight: 200
+    font-weight: 200;
+}
+
+.no-select {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.poetry {
+    font-size: 115%;
+    color: black;
+}
+
+.poetry p {
+    hanging-punctuation: first;
+    margin-bottom: 1.8rem;
+}
+
+div .poetry {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.poetry-note p {
+    margin-bottom: 0rem;
+    font-size: 80%
+}
+
+.poetry-note em {
+    font-weight: bold;
+}
+
+div .poetry-note {
+    font-family: Concourse, Helvetica, Arial, sans-serif;
+    font-style: italic;
+    border-color: #515151;
+    border-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+.mono-strong strong {
+    font-family: Triplicate, monospace;
+    font-weight: bold;
+    color: black;
+}
+
+.comments-header {
+    border-top-style: solid;
+    border-color: #eee;
+    border-width: 1px;
+    padding-top: 2rem;
 }

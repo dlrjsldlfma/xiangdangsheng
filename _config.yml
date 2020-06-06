@@ -22,5 +22,4 @@ author:
 # Plugins
 plugins:
   - jekyll-paginate
-  - pygments
   
