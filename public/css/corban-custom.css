@@ -147,16 +147,16 @@ div .poetry {
     padding-bottom: 1rem;
 }
 
-.poetry-note p {
+.note p {
     margin-bottom: 0rem;
     font-size: 80%
 }
 
-.poetry-note em {
+.note em {
     font-weight: bold;
 }
 
-div .poetry-note {
+div .note {
     font-family: Concourse, Helvetica, Arial, sans-serif;
     font-style: italic;
     border-color: #515151;
@@ -180,3 +180,4 @@ div .poetry-note {
     border-width: 1px;
     padding-top: 2rem;
 }
+
