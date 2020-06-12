@@ -1,7 +1,11 @@
 ---
 layout: default
 comments: true
+include-note: false
+note: none
 formatted-title: false
+include-video: false
+video-src: none
 ---
 
 <div class="post">
@@ -12,8 +16,29 @@ formatted-title: false
       {{ page.title }}
     {% endif %}
   </h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">
+    {{ page.date | date_to_string }}
+  </span>
+  {% if page.include-note %}
+  <div class="note">
+    <p>
+      {{ page.note }}
+    </p>
+  </div>
+  {% endif %}
   {{ content }}
+
+  {% if page.include-video %}
+  <h2>Video</h2>
+  <iframe
+    width="560"
+    height="315"
+    src={{ page.video-src }}
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  {% endif %}
 </div>
 
 {% assign rpsize = site.related_posts | size %}
