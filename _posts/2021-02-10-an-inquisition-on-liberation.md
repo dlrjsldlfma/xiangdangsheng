@@ -111,9 +111,12 @@ my friends and comrades
 [Yaritza](https://www.instagram.com/yyelenia/),
 [Solome](https://twitter.com/solome_haile),
 [Ufuoma](https://twitter.com/ItsUfuoma),
-[Christian](https://chrralph.medium.com/), and Kirsty. Their time, energy, and
+[Christian](https://chrralph.medium.com/), and 
+[Kirsty](http://mitell.mit.edu/). Their time, energy, and
 late night phone calls were essential to the crafting of this speech.
 
 I would also like to acknowledge the other speakers and memebrs of the
 planning committee for the event. A [recording of the entire program
-is here](http://web.mit.edu/webcast/mlk/s21/1/); please give it a listen.
+is here](http://web.mit.edu/webcast/mlk/s21/1/); please give it a
+listen.
+
