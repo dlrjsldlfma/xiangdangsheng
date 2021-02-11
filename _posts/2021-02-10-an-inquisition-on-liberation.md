@@ -15,9 +15,10 @@ note: "Thrse remarks were originally prepared for MIT's 47th Annual
 Will you like how it looks when
 we&rsquo;re free?*
 
+<!--more-->
 As a boy, I remember squirming in the church pew on Sunday Mornings
 doodling contraptions and inventions in the sermon notes section of
-<!--more--> the program. And when that wasn&rsquo;t intriguing enough,
+the program. And when that wasn&rsquo;t intriguing enough,
 my mother would scribble down a collection of x&rsquo;s, y&rsquo;s,
 and equal signs, then ask me to &ldquo;&hellip;solve&hellip;&rdquo; to
 keep me awake. Monday through Friday I attended school at that same
@@ -57,7 +58,7 @@ who gets to be the fiftieth Black student body president are not the
 same *paradigms* that get everyone free.
 
 Applying this in the context of MIT, we have to question if it&rsquo;s
-enough to be proponents of diversity and inclusion. Dr. Dafina-Lazarus
+enough to be proponents of diversity and inclusion. Dr. D-L
 Stewart proposes that we would be better to [stand for equity and
 justice](https://www.insidehighered.com/views/2017/03/30/colleges-need-language-shift-not-one-you-think-essay),
 stating:
