@@ -8,7 +8,7 @@ include-video: true
 video-src: "https://www.youtube.com/embed/9hRMh40jxdg"
 include-note: true
 note: "Thrse remarks were originally prepared for MIT's 47th Annual
-       Martin Luther King Celebration held on February 10, 2021"
+       Martin Luther King Celebration held on February 10, 2021."
 ---
 
 *What does liberation look like? <br> 
