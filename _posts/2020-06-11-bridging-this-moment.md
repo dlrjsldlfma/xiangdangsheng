@@ -8,9 +8,9 @@ include-video: true
 video-src: "https://www.youtube.com/embed/8-zsH-bY1u8"
 include-note: true
 note: "These remarks were originally prepared for the MIT
-Community Vigil held on on June 2, 2020 in the wake of the
-murders of Ahmaud Aubery, Breonna Taylor, George Floyd, 
-and Tony McDade."
+       Community Vigil held on on June 2, 2020 in the wake of the
+       murders of Ahmaud Aubery, Breonna Taylor, George Floyd, 
+       and Tony McDade."
 ---
 
 I was not originally planning to share about this, but early in June,
