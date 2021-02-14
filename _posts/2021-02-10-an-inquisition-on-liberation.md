@@ -7,7 +7,7 @@ comments: true
 include-video: true
 video-src: "https://www.youtube.com/embed/9hRMh40jxdg"
 include-note: true
-note: "Thrse remarks were originally prepared for MIT's 47th Annual
+note: "These remarks were originally prepared for MIT's 47th Annual
        Martin Luther King Celebration held on February 10, 2021."
 ---
 
@@ -34,8 +34,8 @@ these prophecies expanded the horizons I saw for my own future.
 And it all came true. My mother&rsquo;s math puzzles transformed into
 biomedical engineering problem sets during my undergrad at Washington
 University in St. Louis. Those doodles transformed into designs for
-microscopes that can peer into the brain for my work in Ed
-Boyden&rsquo;s lab at MIT.
+microscopes that can peer into the brain for my work in [Ed
+Boyden&rsquo;s lab](https://syntheticneurobiology.org/) at MIT.
 
 My path so far, and my presumptive path forward to professorship or
 industry leadership, is evidence of the very social progress that King
@@ -50,7 +50,7 @@ desire to be one of those representatives who can be looked at by the
 next generation&mdash;I had to consider that this path was imperfect.
 
 The *politics* of who gets to be first, or second, or even who gets to
-be fiftieth are NOT the same *paradigms* that get everyone free.
+be fiftieth are not the same *paradigms* that get everyone free.
 
 Let me say that again: The *politics* of who gets to be the first
 Black astronaut, or the second Black woman nuclear engineer, or even
@@ -104,7 +104,7 @@ theirs.
 Will you like how it looks when
 we&rsquo;re free?*
 
-<h2>Acknowledgements</h2> 
+## Acknowledgements
 
 I want to give my overwhelming graditude to
 my friends and comrades
