@@ -4,6 +4,9 @@ _site
 .ruby-version
 .jekyll-cache
 
+# photoshop docs
+*.psd
+
 # Numerous always-ignore extensions
 *.diff
 *.err
