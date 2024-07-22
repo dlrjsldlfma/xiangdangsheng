@@ -1,5 +1,5 @@
 # Setup
-title:               40Hadis
+title:               40 Hadis
 tagline:             "Risale-i Nur'dan Kırk Hadis"
 description:         "Risale-i Nur'da geçen hadislerden derlenmiş Kırk Hadis"
 url:                 https://40hadis.github.io/
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              40 Hadis
+  url:               https://40hadis.github.io/
+  email:             incomes.oculars_0y@icloud.com
 
 # Gems
 plugins:
