@@ -1,7 +1,7 @@
 # Setup
 title:               40Hadis
 tagline:             "Risale-i Nur'dan Kırk Hadis"
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         "Risale-i Nur'da geçen hadislerden derlenmiş Kırk Hadis"
 url:                 https://40hadis.github.io/
 baseurl:             ''
 paginate:            5
