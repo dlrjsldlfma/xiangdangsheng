@@ -3,27 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+상당성은 대한민국의 여러 사회/경제/정치적 문제를 기록하는 웹사이트이다.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 서술 규칙
+모든 글은 읽고 이해하는데에 어려움이 없도록 서술한다.
 
-There are currently two themes built on Poole:
+* 문어체 평서문으로 서술한다.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+상당성은 중립적 관점을 지킨다.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* 인물에 대한 존칭이나 멸칭을 사용하지 않는다.
+* 존댓말이나 반말을 사용하지 않는다.
+* 작성자를 드러내지 않는다.
+* 사실만을 서술한다.
+* 특정 집단을 칭찬하거나 비판하지 않는다.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## 기여자
+* dlrjsldlfma
+* M
