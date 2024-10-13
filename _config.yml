@@ -5,6 +5,7 @@ description:         'Keeping track of the social/economical/political problems 
 url:                 https://dlrjsldlfma.github.io/xiangdangsheng
 baseurl:             ''
 paginate:            10
+paginate_path:       "/_posts/"
 
 # About/contact
 author:
